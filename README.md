@@ -1,5 +1,5 @@
 # workflow-tutorial
 FOR TUTORIAL PURPOSES
 
-TEST README
+TEST
 THIS IS TEST
